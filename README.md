@@ -2,7 +2,7 @@
 
 MP3 audio recorder.
 
-## Usage
+## Usage
 
 Import `recordrrr.js` in your main script.
 
